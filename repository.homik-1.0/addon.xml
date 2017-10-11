@@ -4,9 +4,9 @@
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
   <extension point="xbmc.addon.repository" name="homik repo">
-    <info compressed="true">http://myrepotest.site88.net//Plugins/addons.xml</info>
-    <checksum>http://myrepotest.site88.net//Plugins/addons.xml.md5</checksum>
-    <datadir zip="true">http://myrepotest.site88.net//Plugins</datadir>
+    <info compressed="true">http://homik.github.io//Plugins/addons.xml</info>
+    <checksum>http://homik.github.io//Plugins/addons.xml.md5</checksum>
+    <datadir zip="true">http://homik.github.io//Plugins</datadir>
     <hashes>true</hashes>
   </extension>
   <extension point="xbmc.addon.metadata">
