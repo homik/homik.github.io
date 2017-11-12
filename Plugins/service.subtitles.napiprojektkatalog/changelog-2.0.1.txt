@@ -1,3 +1,6 @@
+2.0.1 - by homik 12/11/2017
+- empty search result support added
+
 2.0.0 - by homik 18/10/2017
 - manual search support added
 - search by filename if no meta data available
